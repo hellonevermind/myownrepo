@@ -18,4 +18,3 @@ else
     echo "c is greatest"
  fi
 fi
-echo "program is completed"
